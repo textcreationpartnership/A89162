@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The way to thrive: or The heavenly thrift. Teaching a man so to thrive heere, that he may thrive for ever hereafter. By Alexander Mingzeis, minister of Gods word.</title>
+            <author>Mingzeis, Alexander.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89162</idno>
+            <idno type="STC">Wing M2193</idno>
+            <idno type="STC">Thomason E1475_2</idno>
+            <idno type="STC">ESTC R209517</idno>
+            <idno type="EEBO-CITATION">99868393</idno>
+            <idno type="PROQUEST">99868393</idno>
+            <idno type="VID">170005</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170005)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 189:E1475[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The way to thrive: or The heavenly thrift. Teaching a man so to thrive heere, that he may thrive for ever hereafter. By Alexander Mingzeis, minister of Gods word.</title>
+                  <author>Mingzeis, Alexander.</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, M DC L III. [1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170005:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Way to Thrive:</hi> OR THE HEAVENLY THRIFT.</p>
+            <p>Teaching a man ſo to THRIVE heere, that he may Thrive for ever hereafter.</p>
+            <p>By <hi>Alexander Mingȝeis,</hi> Miniſter of Gods Word.</p>
+            <q>
+               <p>He that is greedy of gaine, troubleth his owne houſe; but hee that hateth gifts ſhall live.
+<bibl>Prov. 15.27.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>For the deſire of money is the root of all evill, which while ſome have coveted after, they have erred from the faith, and pierced them<g ref="char:EOLhyphen"/>ſelves through with many ſorrowes.
+<bibl>1. Tim. 6.10.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>But godlineſſe is great gaine, if a man be con<g ref="char:EOLhyphen"/>tent with that he hath.
+<bibl>1. Tim. 6.6.</bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare, <hi>MDCLIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170005:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:170005:2"/>
+            <head>The Way to Thrive, &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Here is no end</hi> (ſaith the Preacher) <hi>of making many Bookes,</hi> Eccleſ. 12.12. eſpe<g ref="char:EOLhyphen"/>cially in theſe times wher<g ref="char:EOLhyphen"/>in Engliſh men have gotten Athenian eares; that is, either to tell or heare ſome newes, Acts 17.21. and what more welcome newes, then both heaven<g ref="char:EOLhyphen"/>ly and earthly thrift?</p>
+            <p>Thrift I know cannot chuſe but be a welcome gueſt unto all: this is it that all men (now adayes) do look and long for, that the blinde world moſt hunts after, high and low, rich and poore, one with another. But divers, divers manner of wayes: the Covetous, hee thinkes that thrift doth conſiſt in heaping up riches, the licentious in his pleaſure, the proud in his ambition; but this is not the right way of thriving.</p>
+            <p>
+               <pb n="2" facs="tcp:170005:3"/>
+The right way therefore of thriving is to learn ſo to thrive in Grace here, that we may thrive in glory hereafter.</p>
+            <p>Firſt, I ſay, we muſt learne to thrive in Grace.</p>
+            <p>And the reaſon is two-fold: firſt, be<g ref="char:EOLhyphen"/>cauſe Grace doth not only bring to glory, but alſo becauſe it hath the promiſe of this life, and of that which is to come, 1. <hi>Tim.</hi> 4.8.</p>
+            <p>The firſt ſtep therefore to the Heaven<g ref="char:EOLhyphen"/>ly thrift, is, to learne to be holy, and to walke cloſe with God, as <hi>Enoch</hi> did, <hi>Gen.</hi> 5.24.</p>
+            <p>Now the way to be holy, is not only to live the life of Grace, but alſo to improve it; that is, to put our talent to uſe, to the end, that when the Lord commeth, hee may receive his owne with advantage, <hi>Mat.</hi> 25.27.</p>
+            <p>Tradeſmen and Shop-keepers doe not hoord up their ware, to have it lying by them, but all their care is to put it off, with the moſt gain; and look with how many more they trade, by ſo much grea<g ref="char:EOLhyphen"/>ter
+<pb n="3" facs="tcp:170005:3"/>is their profit. It is a fine thing to have ſome ware in every mans ſhop, an Oare in every mans boat, and ſome traf<g ref="char:EOLhyphen"/>ficque in every Countrey; for if one faile, yet all ſeldome or never faile. It is a rich thing to have a ſtock of prayers going in this Towne, in that Countrey, in that houſe, Village, or Family: for if the prayers of one righteous man availeth much, <hi>Jam.</hi> 5.16. what doth the prayer of a hundred, or a thouſand? the godly man therefore muſt needs be a rich and a thri<g ref="char:EOLhyphen"/>ving man, that hath not onely his owne ſtock, but alſo the riches and treaſure of Heaven and Earth; for in Heaven he hath Chriſt and his Saints, and all the ho<g ref="char:EOLhyphen"/>ly Angels for his Advocate and friends: upon earth hee hath the Godly all the world over.</p>
+            <p>As for the wicked, he needs not heed them, for they ſhall be as chaffe which the winde driveth away, <hi>Pſal.</hi> 1.4. for as they minde onely earthly things, ſo ſhall they come ſhort of heaven, and though God fil their bellies with his hid treaſure
+<pb n="4" facs="tcp:170005:4"/>yet they are no better then filthy ſwine, alwayes wallowing in the mire of ſin, and rooking in the dunghill of the earth, be<g ref="char:EOLhyphen"/>ing kept for the day of ſlaughter.</p>
+            <p>But for the godly man, though his por<g ref="char:EOLhyphen"/>tion (for the moſt part) is the leaſt in this world, yet his is the greateſt in the King<g ref="char:EOLhyphen"/>dome of Heaven; and though he ſeeme to be moſt ſubject to the loſſes and croſſes of this life, yet he knowes that all things doe worke for his good, <hi>Rom.</hi> 8.28. and greater comfort in the Heavens, becauſe there he hath ſtored up his treaſure, <hi>Mat.</hi> 6.20. And albeit it doth not appear here what he is, becauſe his life is hid with Chriſt in God, <hi>Coll.</hi> 3.3. <hi>yet when he which is his life ſhall appeare, then ſhall he alſo appear with him in glory,</hi> 1. <hi>John</hi> 3.2. <hi>and ſhall ſhine as a ſtar in the midſt of the firmament of Hea<g ref="char:EOLhyphen"/>ven, Dan.</hi> 12.3. all things working for his good, all things furthering his ſalvation, and ſending him heaven-ward.</p>
+            <p>The godly man therefore muſt needs be a rich man, who gaineth in death, tri<g ref="char:EOLhyphen"/>umpheth in ſorrows, groweth rich in ad<g ref="char:EOLhyphen"/>verſity,
+<pb n="5" facs="tcp:170005:4"/>and thriveth then moſt when hee loſeth moſt; for look by how much leſſe he enjoyeth of this world, by ſo much more he getteth of Heaven; he in a gai<g ref="char:EOLhyphen"/>ner, I ſay, in death, in life, in proſperity, in adverſity; for ſo long as he hath God on his ſide, ſo long hee hath Heaven upon Earth, comfort in diſpaire, joy in griefe, pleaſure in paine, health in ſickneſſe, free<g ref="char:EOLhyphen"/>dome in bondage, life in death, and all maner of comfort in the extreameſt pangs of miſery, Chriſt being unto him all in all things, <hi>Col.</hi> 3.11. He is greater then any calamity can overcome, being more then a Conquerour, through him that loved him, and waſhed him from his ſins in his bloud, <hi>Rom.</hi> 8.37, <hi>Rev.</hi> 1.5.</p>
+            <p>Who now would not but bee a godly man, and deſire (with <hi>Balaam</hi>) to die the death of the righteous, to the end, that his laſt end might be like his? <hi>Numb.</hi> 23.10. Who would not but (with the Apo<g ref="char:EOLhyphen"/>ſtle) count all things loſs and dung to gain Chriſt? <hi>Phil.</hi> 3.8. And think godlineſſe to be great gaine, 1 <hi>Tim.</hi> 6.6. Seeing it is it,
+<pb n="6" facs="tcp:170005:5"/>that not onely giveth a man right to the things of this life, and of that which is to come, but alſo it procureth a bleſſing in and upon all he enjoyeth; and therefore if a man would thrive, let him learne to be godly, for that is only the true thriving way, the blinde world therefore is miſta<g ref="char:EOLhyphen"/>ken, that counteth gaine to be godlineſſe, and the worldly thrift to be the only thrift which placeth its chiefe felicity in the things of this life, and ſo that people be but rich to the world, they care not how poore they are to God, and how barren in grace. Heaven is but dung to them, and <hi>Mammon</hi> is their God; and yet it is a wonder to ſee how theſe empty veſſels do jet it upon earth! how they take upon themſelves to be the onely people of the world! and that we can eaſily grant them, while we looke Heaven-ward, and lay hold upon eternall life, 1 <hi>Tim.</hi> 6.12. I cannot but wonder (I ſay) to ſee how they diſpiſe the poore, of whom God hath made many rich in faith, <hi>Jam.</hi> 2.3. when as they doe not ſee themſelves, how they
+<pb n="7" facs="tcp:170005:5"/>are not only poore, but alſo blinde, wret<g ref="char:EOLhyphen"/>ched, miſerable, and naked, <hi>Rev.</hi> 3.17.</p>
+            <p>But it is no wonder, that they which deſpiſe God, ſhould diſpiſe man, that thoſe whoſe hearts are glewed to the world ſhould contemne Heaven: for it is juſt with God, that thoſe for whom ſorrow is ordained hereafter, that they ſhould have their portion in this life; and they that thrive not heaven-ward, ſhould thrive hell-ward; yea, but give them riches, and let them injoy the Earth, they care not what becomes of Heaven; they are content to ſet all at ſinque and ſice, and let them go at hazzards</p>
+            <p>Oh fooles, and unwiſe! what have they gained, when they have gotten the whole world and loſt their owne ſoules? <hi>Mat.</hi> 16.26. do they not well deſerve to be ſhut out of Heaven, that will goe wilfully to Hell? or do they not know that one ſoule is more precious then a thouſand worlds?</p>
+            <p>But what doe I talke of ſoules, of hea<g ref="char:EOLhyphen"/>ven, and hell, or of the world to come, ſeeing all is denied in this age, and peo<g ref="char:EOLhyphen"/>ple
+<pb n="8" facs="tcp:170005:6"/>live as if they never ſhould ſee death?</p>
+            <p>I anſwer, it were well for them if they never ſhould ſo doe; but though the wic<g ref="char:EOLhyphen"/>ked do flouriſh like a green Bay-tree, <hi>Pſ.</hi> 37.35. yet I know that there is a reward for the righteous, and a God that judgeth the earth, <hi>Pſal.</hi> 58.11.</p>
+            <p>They are counted the wiſeſt men now a dayes, that are thrivingeſt men; if then we deſire to be wiſe and thrive, let us learn to be godly; for thereby, we ſee, we ſhal graſpe Heaven and Earth at one ſpan: we ſhall thrive in Heaven, and wee ſhall thrive upon earth; we ſhall thrive here and hereafter. This is to play the part of wiſe men indeed, to be rich in grace, and rich in glory; rich in life, and rich in death; rich in heaven, and rich upon earth.</p>
+            <p>I do not ſay here, that men may be la<g ref="char:EOLhyphen"/>zy and thrive; neither that this heavenly thrift conſiſts without labour and paines; but as the worldling cannot thrive with<g ref="char:EOLhyphen"/>out induſtry, no more can the godly with<g ref="char:EOLhyphen"/>out ſome indeavour: yet as the Race is
+<pb n="9" facs="tcp:170005:6"/>not to the ſwift, nor the Battell to the ſtrong, nor yet bread to the wiſe, nor rich<g ref="char:EOLhyphen"/>es to men of underſtanding, <hi>Eccleſ.</hi> 9.11. ſo the moſt laborious man, is not alwaies the moſt thriving man; becauſe it is not to him that riſeth up early, and lieth downe late, and eateth the bread of care<g ref="char:EOLhyphen"/>fulneſſe, but to whom God giveth the bleſſing <hi>Pſal.</hi> 127.2.</p>
+            <p>Not that therefore we ſhould not take paines, but by reaſon hereof ſtrive the more earneſtly, <hi>Luke</hi> 13.24. eſpecially for the Kingdome of heaven, <hi>Mat.</hi> 6.33. which ſuffereth violence, <hi>Mat.</hi> 11.12. and for all other things they ſhall be caſt upon us.</p>
+            <p>Seeing therefore that godlineſſe is the moſt gainfull life, and a holy life the moſt thriving life.</p>
+            <p>Wee are heere in the ſecond place to learne, how to lead a true and godly life.</p>
+            <p>I anſwer, God hath divers wayes and meanes to bring us to this: ſometimes for the hope of worldly gaine he brings us to heavenly treaſure: ſometimes by ta<g ref="char:EOLhyphen"/>king that from us which wee have, hee
+<pb n="10" facs="tcp:170005:7"/>gives us that which wee have not, and brings us to everlaſting comfort: ſome<g ref="char:EOLhyphen"/>times he imbitters the world unto us, to make us reliſh Heaven: ſometimes hee brings us in love with Heaven, that wee might learne to diſpiſe and contemne the world.</p>
+            <p>But in ſum and all, the onely way to thrive Heaven-ward, is, with Chriſt, to learn to deny our ſelves, and to take up our Croſſe, and follow him dayly <hi>Luk.</hi> 7.23. we muſt learne to abandon the world, and to bid all worldly comforts adiew. And while our faces are Zion-ward (<hi>Jer.</hi> 50.5.) we muſt forget the fleſh pots, the Onions and Garleek of Egypt, <hi>Exod.</hi> 16.3. <hi>Levit.</hi> 11.5. We muſt learne to forget our owne people and our Fathers houſe, if we would have the King to delight in our beauty, <hi>Pſal.</hi> 45.10.11. or be true Iſraelites of the Heavenly <hi>Canaan,</hi> or Citizens of the Coeleſtiall <hi>Jeruſalem.</hi>
+            </p>
+            <p>But may we not keepe correſpondency with the world and Heaven too? be rich upon earth, and rich in Heaven; take our
+<pb n="11" facs="tcp:170005:7"/>pleaſure here, and have it hereafter?</p>
+            <p>I anſwer, no; for firſt the Apoſtle ad<g ref="char:EOLhyphen"/>viſeth us not to bee conformable to this world, but to be transformed by the re<g ref="char:EOLhyphen"/>newing of our mindes, <hi>Rom.</hi> 12.2.</p>
+            <p>Secondly, concerning riches; firſt, <hi>So<g ref="char:EOLhyphen"/>lomon</hi> adviſeth us not to labour to bee rich; <hi>Prov.</hi> 23.4. Againe, Chriſt tells us, that it is as hard for a rich man to enter into the Kingdome of God, as for a Camell to go through the eye of a needle, <hi>Mat.</hi> 19.24. and therefore in <hi>Luke</hi> 6.24. hee pro<g ref="char:EOLhyphen"/>nounces a woe unto them that are rich; adding the reaſon, becauſe they have re<g ref="char:EOLhyphen"/>ceived their conſolation. And S. <hi>James</hi> bids them weep and howle, for the miſe<g ref="char:EOLhyphen"/>ries that ſhall come upon them, <hi>James</hi> 5.1.</p>
+            <p>As for thoſe that live in pleaſure, they are but dead, whileſt they ſeem to live, 1. <hi>Tim.</hi> 5.6. They ſpend their years in plea<g ref="char:EOLhyphen"/>ſure, and in a moment goe downe into Hell.</p>
+            <p>And therefore wee muſt learne to im<g ref="char:EOLhyphen"/>prove ourthoughts, our words, and acti<g ref="char:EOLhyphen"/>ons;
+<pb n="12" facs="tcp:170005:8"/>our ſtate, our health, our wealth, our treaſures, to Gods glory, our owne comfort, and the good of others: Wee muſt learne to order our wayes aright, ſo that no occaſion or opportunity of time bee let goe, without doing of ſome good, without drawing nearer unto God <hi>Jam.</hi> 4.8. and having a ſweet union and commu<g ref="char:EOLhyphen"/>nion with him, in being at peace with him, having joy in the Holy Ghoſt, <hi>Rom.</hi> 14.17. and walking in the ſtrength and power of God: yea, and that though no eye did ſee us, God did not ſeem to regard us, nor the world to take notice of us, be<g ref="char:EOLhyphen"/>cauſe we know where our reward is. We looke at eternitie, and an eternall well<g ref="char:EOLhyphen"/>being with our God, in whoſe preſence is fulneſſe of joy, and at his right hand plea<g ref="char:EOLhyphen"/>ſures for evermore, <hi>Pſal.</hi> 16.11. His love doth conſtraine us to doe what wee doe, to ſuffer &amp; undergo all things for his ſake, becauſe we do know, that the ſufferings of this life are not comparable with the joyes that ſhall bee revealed, <hi>Rom.</hi> 8.18. and the rather becauſe we do know, that
+<pb n="13" facs="tcp:170005:8"/>this life is ſhort enough, if not too ſhort, to fit and prepare us for eternity, and therefore wee make ſo much the more ſpeed to haſten our journey homeward, which is Heaven.</p>
+            <p>The world we paſſe by with ſcorn, not heeding it; for though wee buy, yet wee ſeem not to poſſeſſe; and though we uſe the world, yet we ſeeme not to enjoy it, 1 <hi>Cor.</hi> 7.31. by honour and diſhonour, by evill report and good report; as deceivers, and yet true; as unknown, and yet known; as dying, &amp; behold we live; as chaſtened, and yet not killed; as ſorrowing, and yet alwayes rejoycing; as poor, and yet ma<g ref="char:EOLhyphen"/>king many rich; as having nothing, and yet poſſeſſing all things, 1 <hi>Cor.</hi> 6.8.9.10.</p>
+            <p>And as the worldling lets no occaſion paſſe by him, without bringing ſome of his enterprizes to paſſe: ſo the godly ſlips no opportunitie of time, without accom<g ref="char:EOLhyphen"/>pliſhing his deſigne: the time paſt he re<g ref="char:EOLhyphen"/>deems with fervent prayes, the time pre<g ref="char:EOLhyphen"/>ſent he beſtows in all holineſſe and hone<g ref="char:EOLhyphen"/>ſty; the time to come, hee is carefull to
+<pb n="14" facs="tcp:170005:9"/>ſpend it to Gods glory, his owne, and a<g ref="char:EOLhyphen"/>nothers good: hee is diligent in reading, in hearing, and holy meditations; the godly is all his delight, and the Saints are his chiefeſt treaſure; he is at all times, up<g ref="char:EOLhyphen"/>on all occaſions, and in all places, exerci<g ref="char:EOLhyphen"/>ſed in holy duties, and in devotion both publicke and private: the diſtreſſed (by him) is relieved, the ſicke is viſited, the captive is redeemed, the poor is comfor<g ref="char:EOLhyphen"/>ted: he is eyes to the blinde, feet to the lame, and counſell and ſtrength to the weake and ignorant: he hath the prayers of others, &amp; his own prayers do good to o<g ref="char:EOLhyphen"/>thers, &amp; his exa<g ref="char:cmbAbbrStroke">̄</g>ple reacheth all the world over: hee is painfull in travell, patient in affliction; the world he contemns, and all the glory of it; Heaven onely is his aime, God is his comfort, Chriſt his treaſure, and the bleſſed Saints and Angels his on<g ref="char:EOLhyphen"/>ly Companions; and when the world leaves him, Heaven receives him: there is not a Grace, but he puts it to uſe, and gets intereſt upon it, yea Grace for Grace, <hi>Joh.</hi> 1.16. as hee walketh from faith to faith,
+<pb n="15" facs="tcp:170005:9"/>till hee appeare before the living God in <hi>Zion, Pſal.</hi> 84.7.</p>
+            <p>Now as there is a thriving in godli<g ref="char:EOLhyphen"/>neſſe, which I call the <hi>Heavenly Thrift;</hi> ſo there is (in the third and laſt place) a worldly thrift, which is our thriving in earthly affaires; but becauſe there are but few, but ſeeme to bee inſtructed in this way, I will onely briefly ſet downe a two-fold Rule.</p>
+            <p>The firſt is, that we have a care to a<g ref="char:EOLhyphen"/>void idleneſſe. 2. That we get nothing by falſe wayes, or meanes.</p>
+            <p>Firſt therefore, I ſay, that if we deſire to thrive upon earth, we muſt avoid idle<g ref="char:EOLhyphen"/>neſſe; becauſe it is not only an enemy to thrift, but alſo the very mother, or nurſe of all evill: therefore an idle man cannot be ſaid to be a thriving man; becauſe it is onely the diligent hand that maketh rich, <hi>Prov.</hi> 10.4.</p>
+            <p>Secondly, wee muſt have a care that wee get nothing by falſe wayes, or meanes.</p>
+            <p>
+               <pb n="16" facs="tcp:170005:10"/>
+Wee muſt have a care of falſe weights, and meaſures, of adulterate ware, of bribes, coveteouſneſſe, cruelty, and oppreſſion, of fraud, deceit, and extor<g ref="char:EOLhyphen"/>tion, and that wee preach not the word for filthy lucre ſake, whereby wee make merchandiſe of it, and ſet God, our owne Conſciences, and peoples Soules to ſale. We muſt have a care of ſwearing, and forſwearing of our ſelves, leſt the flying curſe take place amongſt us, and conſume the very ſtones and timber of out houſes, <hi>Zach.</hi> 5.4. Wee muſt have a care that the cry of the poore, fatherleſſe, and wid<g ref="char:EOLhyphen"/>dows, come not into the ears on the Lord, and root us and our poſterity for ever out of the Land of the living. Wee muſt have a care that wee intangle not our ſelves with the cares of this life, that wee meddle not with the times, nor with Power and Authority, nor with them that are given to change, <hi>Pſal.</hi> 24.21.</p>
+            <p>But becauſe the worldling will be care<g ref="char:EOLhyphen"/>full enough in this behalfe, <hi>viz.</hi> to ſtudy
+<pb n="17" facs="tcp:170005:10"/>his owne welfare and happineſſe upon Earth; I leave his worldly care to bring him to a true and ſpirituall care of his e<g ref="char:EOLhyphen"/>verlaſting happineſſe and welfare in the world to come, ſeeing that for this hee was borne and brought into the world; and that this is the onely thrift, if there bee any true thriving way under Heaven: Which way and meanes, God grant us, for Chriſt his ſake. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
